@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;CAHPTER04&apos; to &apos;CHAPTER04&apos;&#x0D;&#x0A;- Original project: &apos;JAVASTUDY&apos;&#x0D;&#x0A;- Original element: &apos;JAVASTUDY/src/CAHPTER04&apos;&#x0D;&#x0A;- Renamed element: &apos;JAVASTUDY/src/CHAPTER04&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;CAHPTER04&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;CAHPTER04" name="CHAPTER04" qualified="false" references="true" stamp="1645421229776" textual="false" version="1.0"/>
+</session>
