@@ -8,4 +8,8 @@
 <fullyQualifiedTypeName name="CHAPTER09.A"/>
 <fullyQualifiedTypeName name="CHAPTER10.EX01_Inheritance.Human"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="CHAPTER13.EX01_CreateObjectAndAccessMember.A.B"/>
+<fullyQualifiedTypeName name="CHAPTER13.EX01_CreateObjectAndAccessMember2.A.B"/>
+<fullyQualifiedTypeName name="CHAPTER13.EX01_CreateObjectOfInnerInterface.A.B"/>
+<fullyQualifiedTypeName name="CHAPTER13.EX02_ButtonAPIExample.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
