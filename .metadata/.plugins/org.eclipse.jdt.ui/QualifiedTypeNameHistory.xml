@@ -12,4 +12,6 @@
 <fullyQualifiedTypeName name="CHAPTER13.EX01_CreateObjectAndAccessMember2.A.B"/>
 <fullyQualifiedTypeName name="CHAPTER13.EX01_CreateObjectOfInnerInterface.A.B"/>
 <fullyQualifiedTypeName name="CHAPTER13.EX02_ButtonAPIExample.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
 </qualifiedTypeNameHistroy>
