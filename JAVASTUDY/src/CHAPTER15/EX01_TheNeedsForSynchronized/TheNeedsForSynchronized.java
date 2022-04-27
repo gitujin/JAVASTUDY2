@@ -14,7 +14,7 @@ class MyData{
 // 공유 객체를 사용하는 쓰레드
 class PlusThread extends Thread{
 	MyData myData;
-	public PlusThread(MyData mydata) {
+	public PlusThread(MyData myData) {
 		this.myData=myData;
 	}
 	@Override
